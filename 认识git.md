@@ -17,4 +17,6 @@ git reset HEAD --file
 
 六。删除文件
 
-七：dev分支
+七：dev分支 .....77777t   master 
+
+八：333333
