@@ -18,3 +18,5 @@ git reset HEAD --file
 六。删除文件
 
 七：dev分支
+
+八：master
